@@ -11,10 +11,14 @@
             "id": "0e72849b2903a412",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Learn",
+                "bFile": "Learn",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Learn  (Working Tree)"
             }
           }
         ]
@@ -174,7 +178,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ec1277e56644536",
+  "active": "0e72849b2903a412",
   "lastOpenFiles": [
     "Daily Notes",
     "2026-05-05.md",
