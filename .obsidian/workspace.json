@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 577.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +174,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9595bce48ba81086",
+  "active": "9ec1277e56644536",
   "lastOpenFiles": [
     "Daily Notes",
     "2026-05-05.md",
