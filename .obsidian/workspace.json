@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbe44f08e7d5236",
+        "id": "1c8baee35e432438",
         "type": "tabs",
         "children": [
           {
-            "id": "0e72849b2903a412",
+            "id": "5bdd0620ce73f046",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Learn",
-                "bFile": "Learn",
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Learn  (Working Tree)"
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -178,8 +178,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0e72849b2903a412",
+  "active": "5bdd0620ce73f046",
   "lastOpenFiles": [
+    "Daily Notes/2026-05-06.md",
+    "2026-05-06 Quick note.md",
     "Daily Notes",
     "2026-05-05.md",
     "Raycast/May 5, 2026.md",
